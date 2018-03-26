@@ -199,7 +199,9 @@ eureka:
 	mvn spring-boot:run
 	mvn assembly:assembly
 	java -jar x.jar --spring.profiles.active=peer1
+	
 ````
 
 [例子:](https://github.com/CheukBinLi/original/tree/2.20/original-prototype/original-prototype.spring.cloud/original-prototype.spring.cloud.eureka-server)
+eureka-server-demo
 	  
